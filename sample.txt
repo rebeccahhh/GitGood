@@ -1,3 +1,4 @@
 This is a short sample file.
 If you make changes to this file, you can see it on the file history on the online repository.
-Give it a try.
+
+Give it a try!
